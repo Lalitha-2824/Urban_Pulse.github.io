@@ -1,0 +1,3 @@
+Service ID,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Start Date,End Date
+FULLW,1,1,1,1,1,1,1,20070101,20201231
+WE,0,0,0,0,0,1,1,20070101,20201231
